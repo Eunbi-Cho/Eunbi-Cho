@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 ### Hi, I'm Eunbi Cho
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunbi-Cho&count_bg=%23000000&title_bg=%23F14700&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zest1923)](https://solved.ac/zest1923)
----
 
-
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=JIWON1923&show_icons=true&theme=dark" width = 450/>
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Eunbi-Cho&show_icons=true&theme=dark" width = 450/>
 
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
