@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="left">
   
 ## 👐🏻 Hi, I'm Eunbi Cho
-I'm Designer and iOS Developer.<br><br/>
+I'm a Designer who love developing! <br><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunbi-Cho&count_bg=%23000000&title_bg=%23F14700&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Eunbi-Cho&show_icons=true&theme=dark" width = 450/>
